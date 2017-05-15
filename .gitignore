@@ -1,0 +1,4 @@
+*.pyc
+lxlogbot/rtmbot.log
+lxlogbot/web/app.cfg
+lxlogbot/rtmbot.conf

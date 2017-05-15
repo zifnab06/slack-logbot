@@ -1,0 +1,3 @@
+SECRET_KEY = ''
+PREFERRED_URL_SCHEME = 'https'
+SLACK_TOKEN = ''
